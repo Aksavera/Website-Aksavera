@@ -41,7 +41,7 @@ function Navbar() {
         <a href="#beranda" className="brand" onClick={close} aria-label="UNHAS 26 - Beranda">
           <span className="brand-badge">26</span>
           <span className="brand-text">
-            SISFOR<span className="brand-dot">•</span>26
+            Aksavera<span className="brand-dot">•</span>26
           </span>
         </a>
 

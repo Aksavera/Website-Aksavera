@@ -11,6 +11,7 @@ const RIBBON = [
   'Sisfor Angkatan 26',
   'Universitas Hasanuddin',
   'Beda Cara Satu Tujuan',
+  'Aksavera'
 ]
 
 function RibbonGroup({ prefix }) {
