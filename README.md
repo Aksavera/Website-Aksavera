@@ -26,7 +26,7 @@ Selamat datang di repository resmi website angkatan **AKSAVÈRA 26** (Sistem Inf
 ## 📂 Struktur Proyek
 
 ```text
-SisforProject-26/
+Website-Aksavera/
 ├── dist/                  # Build output untuk produksi
 │   ├── assets/
 │   ├── favicon.svg
